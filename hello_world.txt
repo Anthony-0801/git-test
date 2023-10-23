@@ -1,1 +1,2 @@
 This is a hello world text, hello world!! A lone world.
+Another test will be put here integrating clone, push, pull and branching.
